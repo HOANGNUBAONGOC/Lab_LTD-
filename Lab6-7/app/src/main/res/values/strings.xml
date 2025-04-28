@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Lab6</string>
-    <string name="title_activity_main2">MainActivity2</string>
-    <string name="title_activity_course_details">CourseDetailsActivity</string>
-    <string name="title_activity_update_course">UpdateCourse</string>
-</resources>

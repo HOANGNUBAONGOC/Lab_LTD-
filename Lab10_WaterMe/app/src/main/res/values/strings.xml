@@ -14,34 +14,32 @@
     limitations under the License.
 -->
 <resources>
-    <string name="app_name">Water Me</string>
-    <string name="remind_me">Remind me to water %s in…</string>
-    <string name="five_seconds">5 seconds</string>
-    <string name="one_min">1 minutes</string>
-    <string name="two_min">2 minutes</string>
-    <string name="three_min">3 minutes</string>
-    <string name="water">Water</string>
-    <string name="time_to_water">It\'s time to water your %s.</string>
+    <string name="app_name">Hãy nhắc tôi uống nước</string>
+    <string name="remind_me">Nhắc tôi tưới %s vào…</string>
+    <string name="five_seconds">5 giây</string>
+    <string name="one_day">1 ngày</string>
+    <string name="one_week">1 tuần</string>
+    <string name="one_month">1 tháng</string>
+    <string name="water">Nước</string>
+    <string name="time_to_water"> Đến giờ tưới nước cho %s của bạn rồi!!!.</string>
 
-    <string name="lithop">Lithop</string>
-    <string name="carrot">Carrot</string>
-    <string name="peony">Peony</string>
-    <string name="pothos">Pothos</string>
-    <string name="fiddle_leaf_fig">Fiddle Leaf Fig</string>
-    <string name="strawberry">Strawberry</string>
-    <string name="daily">daily</string>
-    <string name="weekly">weekly</string>
-    <string name="monthly">monthly</string>
-    <string name="succulent">Succulent</string>
+    <string name="lithop">Rau cải</string>
+    <string name="carrot">Cà rốt</string>
+    <string name="fiddle_leaf_fig">Cây bàng Singapore</string>
+    <string name="strawberry">Dâu tây</string>
+    <string name="daily">Hằng ngày</string>
+    <string name="weekly">Hằng tuần</string>
+    <string name="monthly">Hằng tháng</string>
+    <string name="succulent">Ngon</string>
     <string name="root">Root</string>
-    <string name="flower">Flower</string>
-    <string name="houseplant">Houseplant</string>
-    <string name="broadleaf_evergreen">Broadleaf evergreen</string>
-    <string name="fruit">Fruit</string>
-    <string name="stone_mimicking_succulent">Stone mimicking succulent</string>
-    <string name="hardy_root_vegetable">Hardy root vegetable</string>
-    <string name="spring_blooming_flower">Spring blooming flower</string>
-    <string name="indoor_vine">Indoor vine</string>
-    <string name="ornamental_fig">Ornamental fig</string>
-    <string name="delicious_multiple_fruit">Delicious multiple fruit</string>
+    <string name="flower">Hoa</string>
+    <string name="houseplant">Cây cối trong nhà</string>
+    <string name="broadleaf_evergreen">Cây thường xanh lá rộng</string>
+    <string name="fruit">Trái cây</string>
+    <string name="stone_mimicking_succulent">Cây mọng nước giống đá</string>
+    <string name="hardy_root_vegetable">Rau củ chịu lạnh</string>
+    <string name="spring_blooming_flower">Hoa nở vào mùa xuân</string>
+    <string name="indoor_vine">Dây leo trong nhà</string>
+    <string name="ornamental_fig">Cây sung cảnh</string>
+    <string name="delicious_multiple_fruit">Loại quả kép ngon miệng</string>
 </resources>
